@@ -1,0 +1,14 @@
+[
+  {
+    "id": "expenses_sop_0",
+    "source": "SFO EXPENSES SOP",
+    "chunk": 0,
+    "text": "SFO EXPENSES – STANDARD OPERATING PROCEDURE (SOP)\nCompany: QUANT LAB SFO FZCO\nApplies to: All purchases made using the SFO (company) card\n1. Purpose\nTo ensure all company expenses are UAE audit-compliant, properly documented for accounting,\nand clearly separated from personal expenses.\n2. What Can Be Purchased\n2.1 Employee Assets\n• Laptops\n• Mobile phones\n• Tablets\n• Company SIM cards / DU recharge plans (SIM must be registered under Quantlab)\n2.2 Products, Services & Subscriptions\nThe following must be purchased only under a company account (examples, not limited to):\n• Products required for company or employee use\n• Recruitment portals (e.g. pracuj.pl, Indeed)\n• Software tools\n• Business subscriptions\n• DU business / enterprise mobile plans\nConditions (mandatory):\n• Purchase under company account (QUANT LAB SFO FZCO)\n• Payment via SFO card\n• Valid invoice issued to company\n3. Payment Rule\n• Only the SFO card may be used\n• Personal cards are not allowed\n• No mixing personal and company items\n4. Shipping & Billing Details\nShipping Address:\nVilla 47A, Frond N, Palm Jumeirah, Dubai, United Arab Emirates\nBilling Address (Bills To):\nQUANT LAB SFO FZCO\nDMCC Business Centre, UT-11-CO-190\nUptown Tower, JLT, Dubai, UAE\nThis billing address must be used until DMCC registration is officially updated.\n5. Purchase as Company & Tax Details\nBuyer Name: QUANT LAB SFO FZCO\nTRN"
+  },
+  {
+    "id": "expenses_sop_1",
+    "source": "SFO EXPENSES SOP",
+    "chunk": 1,
+    "text": "Uptown Tower, JLT, Dubai, UAE\nThis billing address must be used until DMCC registration is officially updated.\n5. Purchase as Company & Tax Details\nBuyer Name: QUANT LAB SFO FZCO\nTRN: 105069744800001\n6. Online Accounts\nPersonal accounts must be avoided. If no company account exists, one must be created under\nQUANT LAB SFO FZCO.\n7. Invoices\nA valid tax invoice is mandatory and must include seller details, buyer name, billing address, TRN,\ninvoice date, and amount.\n8. Invoice Storage\nAll invoices must be uploaded to the SFO Purchases – Invoices Google Drive folder.\n9. PA Responsibility Summary\nEnsure correct payment, correct buyer details, correct billing address, TRN inclusion, and invoice\nupload."
+  }
+]
